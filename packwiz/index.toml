@@ -46,6 +46,21 @@ hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
 
 [[files]]
+file = "mods/ftb-backups-3.pw.toml"
+hash = "893f9b4dbe36a0bcae29d87cd68ab84fed83c984c3f5649c155c0522c509a77d"
+metafile = true
+
+[[files]]
+file = "mods/ftb-chunks-forge.pw.toml"
+hash = "0922cfee3b7351e62fb22ccc6e5a59f35fd99fe80737dc861ada3b5407ecdf87"
+metafile = true
+
+[[files]]
+file = "mods/ftb-essentials.pw.toml"
+hash = "6fa984dc1b5905ae909b417ed1cd92d6b536ba4832ed8c8d95aa9d424ad789df"
+metafile = true
+
+[[files]]
 file = "mods/ftb-filter-system.pw.toml"
 hash = "9cb8d355c77067b00a96d96db398f60db62a6ee238dabff45ade33dd8d9f9e3b"
 metafile = true
@@ -61,6 +76,11 @@ hash = "bcb262cd4974aa8539786bfe5ff42c2c8737e595b34090131ada06cda5658f80"
 metafile = true
 
 [[files]]
+file = "mods/ftb-ranks-forge.pw.toml"
+hash = "da91da44b5eafdbf7a964bae0f7b550722f46d5959752ca17c942da5436d9ef0"
+metafile = true
+
+[[files]]
 file = "mods/ftb-teams-forge.pw.toml"
 hash = "e717bb275a54a5caadaa7cf82bc34df3589f49402074adf93c31eaac43860313"
 metafile = true
@@ -73,6 +93,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "94af73eec28b59b314b2c6ef9dfb98f37d7bbcbcb482c278570cc15e44b6a559"
+metafile = true
+
+[[files]]
+file = "mods/immersive-optimization.pw.toml"
+hash = "2d493d3343bb82fb448f107a7846e0cc14b06c8195cf8b6b42c445f2e1a6759b"
 metafile = true
 
 [[files]]
