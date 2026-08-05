@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/customwindowtitle-client.toml"
+hash = "876dad22738d1e9ad552f1eda8d15015bebae7d588edc08a2e843e5aad617106"
+
+[[files]]
+file = "config/customwindowtitle/axolotl.png"
+hash = "520fc89282ba0b51ed66b3f08e877733140c40c482136f4de7d1dc2abd261124"
+
+[[files]]
 file = "mods/alltheleaks.pw.toml"
 hash = "ef2937e2ef6bc64e68b45ca10b11cf0aa7f72ffc0fbffdddbc4bb456a7feb526"
 metafile = true
@@ -86,6 +94,11 @@ hash = "c7c920fbdf1415fff28d6b7aa0a2585be1df114ce03edff75ad2b78d359823ad"
 metafile = true
 
 [[files]]
+file = "mods/custom-window-title.pw.toml"
+hash = "09d3121e0f62df0f7543ec669a7d2465ccc257f8ece46eaa37c0d8597ec36c15"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "ae6fd52d8bdcbeca5bbe6db840f22f92c1928fe0fda22017b19612b9b00a245a"
 metafile = true
@@ -103,6 +116,16 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "cf7390cf06a861f7661222773371b429fce4fdd359240ca3c0eff20835471c0c"
+metafile = true
+
+[[files]]
+file = "mods/fancy-entity-renderer.pw.toml"
+hash = "939bc0f2732ca5a11c2615d9fb51c01acb3a0ea7edb13a7fc48e422eaff7aba8"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "5d56f08571b1d9de0a5a8aadbf4814ea5c6d26cb7bde3923699d7061555baea3"
 metafile = true
 
 [[files]]
@@ -251,6 +274,11 @@ hash = "faed2d9ae09b810b385180a3c20e598ff4d43da75f324b0320649ea4eeb78e29"
 metafile = true
 
 [[files]]
+file = "mods/melody.pw.toml"
+hash = "d7ff27bf5e0c0bd5ede8303d5a41cec193f700292c78c86ad6812a5193f013d9"
+metafile = true
+
+[[files]]
 file = "mods/mixintrace-reforged.pw.toml"
 hash = "238b4a0a76d7c739e757554d234c0df2388f30df31fcdf45a53c6006272b55be"
 metafile = true
@@ -273,6 +301,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
+metafile = true
+
+[[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "f4e01222594116f7ebe3bd3908ae066550172eafb9a1ef383b277be569c38e45"
 metafile = true
 
 [[files]]
@@ -343,6 +376,11 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "bbf8f2ba1e4bba18c1f61b2f003063052f56dd9951ceae3e227b6cbf9affd29f"
+metafile = true
+
+[[files]]
+file = "mods/welcome-screen.pw.toml"
+hash = "422aaca2ffcce82cd2845fbd257269419c3448b580eb7cbcfdb69afcf06d0c9f"
 metafile = true
 
 [[files]]
