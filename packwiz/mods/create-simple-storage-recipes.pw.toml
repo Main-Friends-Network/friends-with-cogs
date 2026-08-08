@@ -1,0 +1,13 @@
+name = "Create: Simple storage recipes"
+filename = "Create_Simple_Storage_Recipes 1.21.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/X0uOtOZd/versions/VaIXEoub/Create_Simple_Storage_Recipes%201.21.1.zip"
+hash-format = "sha512"
+hash = "a51532ac34680bbce4af8262aca03d46d8e2fe87c0a4b8e2b546a4aafab694558f2161c9a6d5a96e9beae77e22e5ee56a8ca574096bb8eb298ec2d691e742161"
+
+[update]
+[update.modrinth]
+mod-id = "X0uOtOZd"
+version = "VaIXEoub"

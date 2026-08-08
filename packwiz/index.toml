@@ -149,6 +149,11 @@ hash = "7d89a6bba992c8f1a2d28f79411952c51b60d2f37ded6226e714552476639fd8"
 metafile = true
 
 [[files]]
+file = "mods/create-contraption-terminals.pw.toml"
+hash = "5178c05f0788498cb6db144a990732d45f781194830b3f99ea73b890707f892b"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
 metafile = true
@@ -169,6 +174,11 @@ hash = "572ec7a57be68aa913863f4fa3be7208ae3dbb846043f3c5890a290976b41f90"
 metafile = true
 
 [[files]]
+file = "mods/create-simple-storage-recipes.pw.toml"
+hash = "791d8706afae4daa916a8d26eda70393a83a9185b5ea48ecb8d6850df5e1bbc6"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails-1.21.1.pw.toml"
 hash = "80332cead695f1e3c27e99133a48709767d1106f836792bb2fc4d594b88f1a68"
 metafile = true
@@ -181,11 +191,6 @@ metafile = true
 [[files]]
 file = "mods/create-tweaked-controllers.pw.toml"
 hash = "2c72104b4cf249d4f096f673293a41c199d611dc9b99a9055d463fa5cd90c7cd"
-metafile = true
-
-[[files]]
-file = "mods/create-wrapped.pw.toml"
-hash = "1b2a4683a4b27783b8d51e5125bd26b1f1b20d7da58d92dc19ee61163d1bcd62"
 metafile = true
 
 [[files]]
@@ -216,6 +221,11 @@ metafile = true
 [[files]]
 file = "mods/custom-window-title.pw.toml"
 hash = "09d3121e0f62df0f7543ec669a7d2465ccc257f8ece46eaa37c0d8597ec36c15"
+metafile = true
+
+[[files]]
+file = "mods/deeperdarker.pw.toml"
+hash = "a9ecc4476d26e707189e9f988c19f22961c33dfd5e5b4db1dfd6f87c6a81c545"
 metafile = true
 
 [[files]]
@@ -669,6 +679,11 @@ hash = "416a2346e514f4481c138ae83eb9b12df6da53184f924b32239e8e0bc603f188"
 metafile = true
 
 [[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "8757967b6fda327281f7f360f2ac4f8d6aab217ad9d1ce3d8fa5141b18a36175"
+metafile = true
+
+[[files]]
 file = "mods/txnilib.pw.toml"
 hash = "bbf8f2ba1e4bba18c1f61b2f003063052f56dd9951ceae3e227b6cbf9affd29f"
 metafile = true
@@ -696,4 +711,9 @@ metafile = true
 [[files]]
 file = "mods/zeta.pw.toml"
 hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/toms-storage-create-style.pw.toml"
+hash = "f1e2127c877d211863deabd0e4f55db53afc14a2667ecaf97c426607cebaa318"
 metafile = true
